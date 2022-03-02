@@ -1,0 +1,4 @@
+name: AudiFly
+version: '${project.version}'
+main: net.audidevelopment.fly.AudiFly
+authors: [ ziue ]
